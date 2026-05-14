@@ -1,0 +1,6 @@
+Disease,avg_glucose,avg_cholesterol,avg_hemoglobin,avg_bmi,avg_hba1c
+Anemia,0.26,0.34,0.49,0.35,0.35
+Diabetes,0.44,0.45,0.62,0.49,0.55
+Healthy,0.43,0.39,0.58,0.45,0.43
+Thalasse,0.36,0.33,0.64,0.51,0.42
+Thromboc,0.28,0.63,0.77,0.27,0.52
